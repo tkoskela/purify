@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5.1)
+cmake_minimum_required(VERSION 3.12.4)
 project(Purify C CXX)
 
 # Location of extra cmake includes for the project
